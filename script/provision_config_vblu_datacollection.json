@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "wifi_ssid": "WIFI WPA2 SSID",
+    "wifi_pass": "WIFI PASSWORD",
+    "mqtt_uri": "mqtts://mqtt.googleapis.com",
+    "mqtt_port": 443,
+    "ntp_url": "pool.ntp.org",
+    "mqtt_client_id": "",
+    "mqtt_username": "",
+    "mqtt_password": "",
+    "cloud_region": "us-central1",
+    "project_id": "vayyarhomedatacollection",
+    "http_url": "https://us-central1-vayyarhomedatacollection.cloudfunctions.net",
+    "package_name": "com.walabot.home.esp.fall"
+}

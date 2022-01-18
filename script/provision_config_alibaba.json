@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "wifi_ssid": "WIFI_SSID",
+    "wifi_pass": "WIFI_PASSWORD",
+    "ntp_url": "pool.ntp.org",
+    "project_id": "walabot-home",
+    "http_url": "https://1455808813907850.cn-shanghai.fc.aliyuncs.com/2016-08-15/proxy/walabot-home-service/api",
+    "package_name": "com.walabot.home.esp.client"
+}
