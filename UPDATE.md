@@ -15,7 +15,6 @@ Open CMD/Terminal and run the following:
 python3 -m esptool erase_region 0xa000 0x3000
 ```
 
-
 ## Flash factory data
 If you erased the whole disk, you will need to flash also the info partition:
 

@@ -11,6 +11,6 @@
     "cloud_type": 0,
     "cloud_region": "us-central1",
     "project_id": "walabot-home",
-    "http_url": "https://92c1-211-22-123-214.ngrok.io",
+    "http_url": "https://box.jubo.health",
     "package_name": "com.walabot.home.esp.client"
 }
