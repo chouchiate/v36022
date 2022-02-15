@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "wifi_ssid": "JUBO_LTE",
+  "wifi_pass": "50868012",
+  "mqtt_uri": "mqtt://mqtt.jubo.health",
+  "mqtt_port": 1883,
+  "ntp_url": "pool.ntp.org",
+  "mqtt_client_id": "abc",
+  "mqtt_username": "jubo",
+  "mqtt_password": "space",
+  "cloud_type": 0,
+  "cloud_region": "us-central1",
+  "project_id": "walabot-home",
+  "http_url": "https://box.jubo.health",
+  "package_name": "com.walabot.home.esp.client"
+}

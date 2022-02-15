@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "wifi_ssid": "JUBO_LTE",
+  "wifi_pass": "50868012",
+  "mqtt_uri": "mqtts://mqtt.googleapis.com",
+  "mqtt_port": 1883,
+  "ntp_url": "pool.ntp.org",
+  "mqtt_client_id": "",
+  "mqtt_username": "",
+  "mqtt_password": "",
+  "cloud_region": "us-central1",
+  "project_id": "walabot-home",
+  "http_url": "https://us-central1-walabot-home.cloudfunctions.net",
+  "package_name": "com.walabot.home.esp.client"
+}
