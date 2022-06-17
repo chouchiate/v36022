@@ -7,7 +7,7 @@ python3 -m esptool erase_region 0xa000 0xFF6000
 
 ## Erasing only provision data
 This will "factory reset" the device, without erasing flashed
-application. (the second value is the size of the parition, 12K, found
+application. (the second value is the size of the partition, 12K, found
 in partitions.csv).
 
 Open CMD/Terminal and run the following:
@@ -35,4 +35,7 @@ python3 -m esptool -b 921600 --after hard_reset write_flash --flash_mode dio --f
 
 ```
 python3 ./script/flash_provision_config.py ./script/provision_config_vblu_production.json
+
+python3 ./script/flash_provision_config.py ./script/provision_config_vblu_chu_family.json
+
 ```
