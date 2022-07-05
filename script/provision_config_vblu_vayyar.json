@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "wifi_ssid": "JUBO_LTE",
-  "wifi_pass": "50868012",
+  "wifi_ssid": "iPhone",
+  "wifi_pass": "59273272",
   "mqtt_uri": "mqtts://mqtt.googleapis.com",
   "mqtt_port": 1883,
   "ntp_url": "pool.ntp.org",

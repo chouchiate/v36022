@@ -38,4 +38,9 @@ python3 ./script/flash_provision_config.py ./script/provision_config_vblu_produc
 
 python3 ./script/flash_provision_config.py ./script/provision_config_vblu_chu_family.json
 
+python3 ./script/flash_provision_config.py ./script/provision_config_vblu_dev_api.json
+
+python3 ./script/flash_provision_config.py ./script/provision_config_vblu_vayyar.json
+
+python3 ./script/flash_provision_config.py ./script/provision_config_vblu_demo.json
 ```
