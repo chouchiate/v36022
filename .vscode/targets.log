@@ -6,11 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
-make: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Thu Sep 15 11:42:57 2022
+# Make data base, printed on Tue Oct  4 09:54:47 2022
 
 # Variables
 
@@ -59,7 +56,7 @@ GOPATH = /Users/jubo/go
 # environment
 NVM_BIN = /Users/jubo/.nvm/versions/node/v16.15.0/bin
 # environment
-LaunchInstanceID = 91662BA9-F5A2-4ECC-B980-59F19E754720
+LaunchInstanceID = C3F43CD4-4044-4187-9416-F6EFFE7553AF
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
@@ -67,7 +64,7 @@ PYENV_ROOT = /Users/jubo/.pyenv
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.qtR6otiqif/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.rcv3tc6G0r/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -89,7 +86,7 @@ MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
 # environment
 VSCODE_CLI = 1
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/jubo/Library/Application Support/Code/CachedData/784b0177c56c607789f9638da7b6bf3230d47a8c
+VSCODE_CODE_CACHE_PATH = /Users/jubo/Library/Application Support/Code/CachedData/74b1f979648cc44d385a2286793c226e611f59e7
 # environment
 LOGNAME = jubo
 # environment
@@ -105,7 +102,6 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # environment
 PLATFORMIO_PATH = /Users/jubo/.platformio/python3/bin:/Users/jubo/.pyenv/shims:/Users/jubo/Programming/esp/esp-idf/tools:/Users/jubo/.nvm/versions/node/v16.15.0/bin:/Users/jubo/gn:/Users/jubo/gn:/Users/jubo/Programming/google-cloud-sdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Users/jubo/go/bin:/bin:/Users/jubo/Programming/flutter/bin
 # environment
- 
 COLORTERM = truecolor
 # default
 MAKE = $(MAKE_COMMAND)
@@ -126,7 +122,7 @@ USER = jubo
 # default
 MAKECMDGOALS := all
 # environment
-TERM_SESSION_ID = w0t9p0:C403493E-E935-4D0F-ACCE-F472E4CED2E9
+TERM_SESSION_ID = w0t9p0:0A20F5EC-4785-4C4A-B1F8-843B025C7E22
 # environment
 LESS = -R
 # automatic
@@ -141,8 +137,11 @@ TERM_PROGRAM = iTerm.app
 TMPDIR = /var/folders/y_/9mjwj81d4s129xs544zcwmcw0000gn/T/
 # automatic
 *F = $(notdir $*)
+ 
+make: *** No rule to make target `all'.  Stop.
+
 # environment
-VSCODE_IPC_HOOK = /Users/jubo/Library/Application Support/Code/1.71.0-main.sock
+VSCODE_IPC_HOOK = /Users/jubo/Library/Application Support/Code/1.71.2-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -158,7 +157,7 @@ NVM_DIR = /Users/jubo/.nvm
 # environment
 IDF_PATH = /Users/jubo/Programming/esp/esp-idf
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.16540844.16540850.523667B9-4A21-436B-906F-F28F63677C68
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.16540844.16540850.3E814CFF-A047-409F-BE8C-6C99E15443C4
 # environment
 LC_TERMINAL_VERSION = 3.4.16
 # environment
@@ -168,7 +167,7 @@ HOMEBREW_PREFIX = /opt/homebrew
 # automatic
 +F = $(notdir $+)
 # environment
-ITERM_SESSION_ID = w0t9p0:C403493E-E935-4D0F-ACCE-F472E4CED2E9
+ITERM_SESSION_ID = w0t9p0:0A20F5EC-4785-4C4A-B1F8-843B025C7E22
 # environment
 HOMEBREW_REPOSITORY = /opt/homebrew
 # environment
@@ -188,7 +187,7 @@ PAGER = less
 # environment
 LC_ALL = C
 # environment
-SECURITYSESSIONID = 186a6
+SECURITYSESSIONID = 186a4
 # automatic
 ^F = $(notdir $^)
 # default
@@ -200,7 +199,7 @@ LANG = C
 # environment
 TERM = xterm-256color
 # environment
-VSCODE_PID = 431
+VSCODE_PID = 9953
 # variable set hash-table stats:
 # Load=93/1024=9%, Rehash=0, Collisions=7/115=6%
 
@@ -210,9 +209,9 @@ VSCODE_PID = 431
 
 # Directories
 
-# . (device 16777232, inode 810610): 16 files, no impossibilities.
+# . (device 16777234, inode 810610): 17 files, no impossibilities.
 
-# 16 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -239,7 +238,6 @@ all:
 Makefile:
 #  Implicit rule search has been done.
 #  Last modified 2022-01-21 14:37:47
- 
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -264,6 +262,6 @@ Makefile:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Sep 15 11:42:57 2022
+# Finished Make data base on Tue Oct  4 09:54:47 2022
 
  
