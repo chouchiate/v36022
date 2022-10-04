@@ -18,3 +18,16 @@ vayyar-flash-application:
 vayyar-usb-log:
 	@echo "start usb log mode..."
 	@script -a -t 0 out27.txt screen /dev/tty.usbserial-DO02K4IH 115200
+
+vayyar-flash-provision-config-dev:
+	@echo "flashing provision config dev - wifi for 休息室"
+	@python3 ./script/flash_provision_config.py ./script/provision_config_vblu_dev.json
+
+vayyar-flash-provision-config-demo:
+	@echo "flashing provision config demo - wifi for 內湖 demo room"
+	@python3 ./script/flash_provision_config.py ./script/provision_config_vblu_demo.json
+
+vayyar-flash-provision-config-production:
+	@echo "flashing provision config production - wifi for production deployment, please make sure WIFI config is set"
+	@python3 ./script/flash_provision_config.py ./script/provision_config_vblu_production.json
+

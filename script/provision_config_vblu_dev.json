@@ -10,6 +10,6 @@
     "mqtt_password": "space",
     "cloud_region": "us-central1",
     "project_id": "walabothome-app-cloud",
-    "http_url": "https://92c1-211-22-123-214.ngrok.io",
+    "http_url": "https://box.jubo.health/api/v1/iot/vayyar",
     "package_name": "com.walabot.home.esp.client"
 }
